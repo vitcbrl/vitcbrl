@@ -2,6 +2,8 @@
 
 Olá! Eu sou a Vitória, estudante de Análise e Desenvolvimento de Sistemas. Tenho um propósito claro desde sempre: minha missão é criar, inovar e impactar positivamente vidas. Para mim, a tecnologia é pura arte, uma tela em branco onde expresso minha paixão. Simplificar processos com apps intuitivos, elevar a qualidade de vida com produtos inovadores e romper barreiras com ideias inspiradoras me satisfaz profundamente.
 
+[![Minhas habilidades](https://skillicons.dev/icons?i=js,html,css,angular,typescript,react,nodejs,git,vite,figma,firebase&perline=6)](https://skillicons.dev)
+
 ## Habilidades e Conhecimentos
 
 Minhas habilidades incluem:
