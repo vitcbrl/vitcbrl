@@ -21,7 +21,7 @@ Olá! Eu sou a Vitória, estudante de Análise e Desenvolvimento de Sistemas. Te
 ## Projetos Destacados
 
 - Um aplicativo React que simplifica o acompanhamento de tarefas diárias.
-- Um site Angular responsivo para compartilhar receitas saudáveis.
+- Um site Angular responsivo para melhorar o atendimento de clientes e organização de pedidos.
 - Uma interface de usuário inovadora para um aplicativo de gerenciamento financeiro.
 
 ## Estatísticas do GitHub
@@ -33,5 +33,7 @@ Olá! Eu sou a Vitória, estudante de Análise e Desenvolvimento de Sistemas. Te
 
 Adoraria saber mais sobre como posso contribuir para sua equipe. Entre em contato:
 
-- [LinkedIn](https://www.linkedin.com/in/vitoria-cabral-oliveira/)
-- E-mail: vitoria.oliveira@alu.ufc.br
+<div> 
+  <a href="https://www.linkedin.com/in/vitoria-cabral-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:vitoria.oliveira@alu.ufc.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
