@@ -16,7 +16,8 @@ Olá! Eu sou a Vitória, estudante de Análise e Desenvolvimento de Sistemas. Te
 - Node.js
 - Firebase
 - Git/GitHub
-- Flutter (atualmente em estudo)
+- Java (atualmente em estudo)
+- Php (atualmente em estudo)
 
 ## Projetos Destacados
 
